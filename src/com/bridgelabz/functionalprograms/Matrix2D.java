@@ -60,6 +60,7 @@ public class Matrix2D {
 					}
 					System.out.println();
 				}
+				
 		}
 
 	}
