@@ -26,7 +26,7 @@ public class ZeroSum {
 						triplet.add(array[j]);
 						triplet.add(array[k]);
 						if(!list.contains(triplet)) list.add(triplet);
-					}
+					}					
 				}
 			}
 		}
